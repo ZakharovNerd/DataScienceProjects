@@ -6,3 +6,5 @@ This rep is created for description purposes as addition to CV
 #2 - High Quality Award at CUP IT in Analytics
 
 #3 - finalist diploma at Raiffeisenbank hackathon
+
+#4 - stats 101 on Stepik
