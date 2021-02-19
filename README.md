@@ -5,6 +5,8 @@ This rep is created for description purposes as addition to CV
 
 #2 - High Quality Award at CUP IT in Analytics
 
-#3 - finalist diploma at Raiffeisenbank hackathon
+#3 GoPractice certificate
 
-#4 - stats 101 on Stepik
+#4 - finalist diploma at Raiffeisenbank hackathon
+
+#5 - stats 101 on Stepik
