@@ -10,3 +10,5 @@ This rep is created for description purposes as addition to CV
 #4 - finalist diploma at Raiffeisenbank hackathon
 
 #5 - stats 101 on Stepik
+
+#6 - Classic ML course by Tinkoff Education certificate 
